@@ -4,7 +4,7 @@
 <br>
 
 ## 🧑‍🎓 Programmers
-[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+[![](https://github.com/err-cho404/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/err-cho404/github-programmers-rank)
 
 <br>
 
